@@ -1,3 +1,3 @@
 # machine-learning-file
 files of my youtube videos
-https://www.youtube.com/watch?v=mgP_ZlkwEIw&list=PLbE_XHG9itXcBdIckTEi2k0NZOFq__6S_
+https://www.youtube.com/channel/UCBqVBjvpERmpLyFCrCn1KyA/playlists
